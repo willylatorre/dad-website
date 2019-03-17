@@ -1,2 +1,9 @@
-# dad-website
-Dad's personal website made with Gridsome + Contentful + Netlify
+# Amazing website for dad
+
+`
+Used to learn a little bit of Gridsome with GraphQL. Content will be retrieved from Contentful.
+Easy deployment through Netlify.
+
+## TODO
+
+Finish this Readme
