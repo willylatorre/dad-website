@@ -1,0 +1,11 @@
+@font-face {
+  font-family: LM-Math;
+  src: url('../fonts/lm-math.otf');
+  font-weight: normal;
+}
+
+// @import '~chota';
+
+:root {
+  --font-family: LM-Math, 'Helvetica Neue', sans-serif;
+}
