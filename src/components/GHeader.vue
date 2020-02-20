@@ -19,7 +19,7 @@ export default {
         <div class="font-medium text-4xl">
           <g-link class="brand" to="/">{{ $static.metadata.siteName }}</g-link>
         </div>
-          <button class="" @click="showMenu = true">Table of contents 🔎</button>
+          <!-- <button class="" @click="showMenu = true">Table of contents 🔎</button> -->
       </nav>
       <g-menu v-show="showMenu" @close="showMenu = false" />
     </header>

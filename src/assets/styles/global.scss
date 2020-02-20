@@ -9,3 +9,7 @@
 :root {
   --font-family: LM-Math, 'Helvetica Neue', sans-serif;
 }
+
+p {
+  @apply py-2;
+}
