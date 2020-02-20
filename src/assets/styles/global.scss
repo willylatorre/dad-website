@@ -1,13 +1,14 @@
 @font-face {
-  font-family: LM-Math;
-  src: url('../fonts/lm-math.otf');
+  font-family: CM;
+  src: url('../fonts/cmunrm.ttf');
   font-weight: normal;
+  font-display: swap;
 }
 
 // @import '~chota';
 
 :root {
-  --font-family: LM-Math, 'Helvetica Neue', sans-serif;
+  --font-family: CM, 'Helvetica Neue', sans-serif;
 }
 
 p {
